@@ -1,0 +1,158 @@
+{
+  "drinks": [
+    {
+      "title": "Café Latte",
+      "price": 3,
+      "rating": 1,
+      "url": "/svg/CaféLatte.webp",
+      "quantity": 3,
+      "id": 1,
+      "cart": true
+    },
+    {
+      "title": "Toffee Crunch",
+      "price": 4.5,
+      "rating": 2,
+      "url": "/svg/ToffeeCrunch.webp",
+      "quantity": 2,
+      "id": 2,
+      "cart": true
+    },
+    {
+      "title": "Spanish Latte",
+      "price": 3.5,
+      "rating": 5,
+      "url": "/svg/SpanishLatte.jpeg",
+      "quantity": 7,
+      "id": 3,
+      "cart": false
+    },
+    {
+      "title": "Caramel Frappe",
+      "price": 3.5,
+      "rating": 3,
+      "url": "/svg/CaramelFrappe.jpg",
+      "quantity": 3,
+      "id": 4,
+      "cart": true
+    },
+    {
+      "title": "American Coffe",
+      "price": 3,
+      "rating": 3,
+      "url": "/svg/AmericanCoffee.webp",
+      "quantity": 3,
+      "id": 5,
+      "cart": false
+    },
+    {
+      "title": "whiteMocha",
+      "price": 3.5,
+      "rating": 4,
+      "url": "/svg/whiteMocha.jpg",
+      "quantity": 5,
+      "id": 6,
+      "cart": false
+    },
+    {
+      "title": "Caramel Macchiato",
+      "price": 4,
+      "rating": 5,
+      "url": "/svg/CaramelMacchiato.webp",
+      "quantity": 1,
+      "id": 7,
+      "cart": false
+    },
+    {
+      "title": "Mocha",
+      "price": 6,
+      "rating": 2,
+      "url": "/svg/Mocha.webp",
+      "quantity": 1,
+      "id": 8,
+      "cart": false
+    },
+    {
+      "title": "Orange Blast",
+      "price": 3,
+      "rating": 4,
+      "url": "/svg/OrangeBlast.jpg",
+      "quantity": 1,
+      "id": 9,
+      "cart": false
+    },
+    {
+      "title": "Red Blast",
+      "price": 3,
+      "rating": 4,
+      "url": "/svg/RedBlast.jpg",
+      "quantity": 2,
+      "id": 10,
+      "cart": false
+    },
+    {
+      "title": "Cappuccino",
+      "price": 3.5,
+      "rating": 3,
+      "url": "/svg/Cappuccino.webp",
+      "quantity": 1,
+      "id": 11,
+      "cart": false
+    },
+    {
+      "title": "Iced Latte",
+      "price": 3.5,
+      "rating": 4,
+      "url": "/svg/IcedLatte.jpg",
+      "quantity": 6,
+      "id": 12,
+      "cart": false
+    }
+  ],
+  "users": [
+    {
+      "email": "123@123.com",
+      "password": "12345",
+      "username": "Ahmad",
+      "id": 1
+    },
+    {
+      "email": "456@456.com",
+      "password": "852",
+      "username": "Mohammed",
+      "id": 2
+    },
+    {
+      "email": "sa@sa.com",
+      "password": "12345",
+      "username": "Heba",
+      "id": 3
+    },
+    {
+      "email": "saa@sa.com",
+      "password": "123456",
+      "username": "Tala",
+      "id": 4
+    },
+    {
+      "email": "Ahmad@gmail.com",
+      "password": "A12345",
+      "username": "Tariq",
+      "id": 5
+    },
+    {
+      "email": "ahmad@psut.com",
+      "password": "q1231",
+      "username": "Zeyad",
+      "Admin": false,
+      "id": 6
+    },
+    {
+      "email": "kh@kh.com",
+      "password": "123456",
+      "username": "Khalil Awad",
+      "Admin": false,
+      "id": 7
+    }
+  ]
+}
